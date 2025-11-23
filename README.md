@@ -17,16 +17,3 @@ Reliability: Includes error handling to manage issues like division by zero or i
 2. Console Tool (calculator.py)
 
 A non-graphical version that executes the core expression evaluation logic directly within the terminal.
-
-How to Run
-
-The project uses only standard Python libraries and requires Python 3.
-
-To launch the desktop application:
-
-python gui_calculator.py
-
-
-To launch the command-line tool:
-
-python calculator.py
